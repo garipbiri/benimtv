@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="TURK_ULUSAL",SEMERKAND HD
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
 #EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://i.imgur.com/6ppPj8T.jpg" group-title="TURK_ULUSAL",Semerkand TV
 http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT COCUK
