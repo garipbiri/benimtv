@@ -1,46 +1,46 @@
 #EXTM3U
 #EXTINF:-1 group-title="TURK_ULUSAL",SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://i.imgur.com/6ppPj8T.jpg" group-title="",Semerkand TV
+#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://i.imgur.com/6ppPj8T.jpg" group-title="TURK_ULUSAL",Semerkand TV
 http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",ATV HD
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7g6oP1l.jpg" group-title="TURK_ULUSAL",EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://i.imgur.com/2jKvBsQ.jpg" group-title="",Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="https://i.imgur.com/kA45FvQ.jpg" group-title="",Kanal D
-http://18515265153.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_1_320/playlist.m3u8?
-#EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-logo="https://i.imgur.com/Fvxpir2.png" group-title="",Show
-http://streams2.livetv.az/turk/showtv/playlist.m3u8
+#EXTINF:-1 group-title="TURK_ULUSAL",TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",MINIKA COCUK
 http://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",MINIKA GO
 http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 group-title="TURK_ULUSAL",TRT 1 HD
+http://bit.do/Trt1hd
+#EXTINF:-1 group-title="TURK_ULUSAL",ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7g6oP1l.jpg" group-title="TURK_ULUSAL",EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-logo="https://i.imgur.com/2jKvBsQ.jpg" group-title="TURK_ULUSAL",Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-logo="https://i.imgur.com/kA45FvQ.jpg" group-title="TURK_ULUSAL",Kanal D
+http://18515265153.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_1_320/playlist.m3u8?
+#EXTINF:-1 group-title="TURK_ULUSAL",KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-logo="https://i.imgur.com/Fvxpir2.png" group-title="TURK_ULUSAL",Show
+http://streams2.livetv.az/turk/showtv/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-logo="https://i.imgur.com/hQ7qmqc.png" group-title="TURK_ULUSAL",FOX
+http://streams2.livetv.az/turk/fox_stream/playlist.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT KURDI
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT ARAPCA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT AVAZ
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",TRT COCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT MUZIK
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-id="TRT Diyanet TR" tvg-name="TRT Diyanet TR" tvg-logo="https://i.imgur.com/ChS6XBo.png" group-title="",TRT Diyanet
+#EXTINF:-1 tvg-id="TRT Diyanet TR" tvg-name="TRT Diyanet TR" tvg-logo="https://i.imgur.com/ChS6XBo.png" group-title="TURK_ULUSAL",TRT Diyanet
 https://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",TBMM TV
-http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT TURK
 http://bit.do/Trtturk
-#EXTINF:-1 group-title="TURK_ULUSAL",TRT 1 HD
-http://bit.do/Trt1hd
 #EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-logo="https://i.imgur.com/BYsl7Nc.jpg" group-title="News",TRT Haber
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:-1 tvg-id="A Haber TR" tvg-name="A Haber TR" tvg-logo="https://i.imgur.com/SmCjRrW.jpg" group-title="TURK_ULUSAL",A Haber
@@ -55,13 +55,11 @@ http://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://soledge7.dogannet.tv/S1/HLS_LIVE/haberturk/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-logo="https://i.imgur.com/QP18ELE.png" group-title="News",NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-logo="https://i.imgur.com/hQ7qmqc.png" group-title="TURK_ULUSAL",FOX
-http://streams2.livetv.az/turk/fox_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aJDmVr3.png" group-title="",Teve 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aJDmVr3.png" group-title="TURK_ULUSAL",Teve 2
 http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="Beyaz TV HD TR" tvg-name="Beyaz TV HD TR" tvg-logo="https://i.imgur.com/eTJIlt9.jpg" group-title="TURK_ULUSAL",Beyaz TV
 http://streams2.livetv.az/turk/beyaz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Tj2G5lV.png" group-title="",TGRT Belgesel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Tj2G5lV.png" group-title="TURK_ULUSAL",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 #EXTINF:-1 group-title="TURK_YEREL",TV2000
 http://stream.taksimbilisim.com:1935/tv2000/bant1/HasBahCa.m3u8
@@ -81,11 +79,11 @@ https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
 rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx2Cyq0.png" group-title="TURK_YEREL",Istanbul Metropolitan Municipality
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
-#EXTINF:-1 group-title="TURK_YEREL_2",Koroglu TV (Bolu) m3u8 taksimbilisim
+#EXTINF:-1 group-title="TURK_YEREL",Koroglu TV (Bolu) m3u8 taksimbilisim
 http://stream.taksimbilisim.com:1935/koroglutv/bant1/KorogluTV.m3u8
-#EXTINF:-1 group-title="TURK_YEREL_2",TV1 (Kayseri) m3u8 taksimbilisim
+#EXTINF:-1 group-title="TURK_YEREL",TV1 (Kayseri) m3u8 taksimbilisim
 http://stream.taksimbilisim.com:1935/tv1/bant1/TV1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MwuqE6S.jpg" group-title="TURK_ULUSAL",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-logo="https://i.imgur.com/CvSz5Um.jpg" group-title="",Kral TV
+#EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-logo="https://i.imgur.com/CvSz5Um.jpg" group-title="TURK_ULUSAL",Kral TV
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
