@@ -25,6 +25,8 @@ http://18515265153.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_1_320/playlist.m3u8?
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-logo="https://i.imgur.com/Fvxpir2.png" group-title="TURK_ULUSAL",Show
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KANAL 7" tvg-name="KANAL 7" group-title="TURK_ULUSAL",KANAL 7
+http://ok2.se:8000/0d61F7UiBXAHUPzWm/f4a7F9U5htQJiWyEA/27117
 #EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-logo="https://i.imgur.com/hQ7qmqc.png" group-title="TURK_ULUSAL",FOX
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6ZZLDQp/tv8.png" group-title="TURK_ULUSAL",TV8
