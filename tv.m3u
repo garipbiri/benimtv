@@ -24,9 +24,11 @@ http://18515265153.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_1_320/playlist.m3u8?
 #EXTINF:-1 group-title="TURK_ULUSAL",KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-logo="https://i.imgur.com/Fvxpir2.png" group-title="TURK_ULUSAL",Show
-http://streams2.livetv.az/turk/showtv/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-logo="https://i.imgur.com/hQ7qmqc.png" group-title="TURK_ULUSAL",FOX
-http://streams2.livetv.az/turk/fox_stream/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6ZZLDQp/tv8.png" group-title="TURK_ULUSAL",TV8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT KURDI
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT ARAPCA
@@ -43,8 +45,8 @@ https://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
 http://bit.do/Trtturk
 #EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-logo="https://i.imgur.com/BYsl7Nc.jpg" group-title="News",TRT Haber
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 tvg-id="A Haber TR" tvg-name="A Haber TR" tvg-logo="https://i.imgur.com/SmCjRrW.jpg" group-title="News",A Haber
-http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:-1 tvg-id="A Haber TR" tvg-name="A Haber TR" tvg-logo="https://i.ibb.co/qjzfKDN/ahaber.jpg" group-title="News",A Haber
+https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/5gHwze2.jpg" group-title="TURK_ULUSAL",A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TGRT Haber TR" tvg-logo="https://i.imgur.com/K8Vh6HD.png" group-title="News",TGRT Haber
