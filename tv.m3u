@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://i.imgur.com/6ppPj8T.jpg" group-title="TURK_ULUSAL",Semerkand TV
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/
 #EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-logo="https://i.imgur.com/6ppPj8T.jpg" group-title="TURK_ULUSAL",Semerkand TV
-http://line.myott.net:80/ZSC1yW7xdD/INoD4n24q7/3443
+http://176.10.117.12:8081/aypitv/SEMERKANT/playlist.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",MINIKA COCUK
@@ -26,7 +26,7 @@ http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-logo="https://i.imgur.com/Fvxpir2.png" group-title="TURK_ULUSAL",Show
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KANAL 7" tvg-name="KANAL 7" group-title="TURK_ULUSAL",KANAL 7
-http://ok2.se:8000/0d61F7UiBXAHUPzWm/f4a7F9U5htQJiWyEA/27117
+http://176.10.117.21:8081/aypitv/Kanal7/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-logo="https://i.imgur.com/hQ7qmqc.png" group-title="TURK_ULUSAL",FOX
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6ZZLDQp/tv8.png" group-title="TURK_ULUSAL",TV8
@@ -69,6 +69,8 @@ http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 http://stream.taksimbilisim.com:1935/tv2000/bant1/HasBahCa.m3u8
 #EXTINF:-1 group-title="TURK_YEREL",TV52
 rtmp://stream.taksimbilisim.com/tv52/bant1
+#EXTINF:-1 group-title="TURK_YEREL",KAYSERI_TV
+http://176.10.117.18:8081/aypitv/Kayseri_Holland/playlist.m3u8
 #EXTINF:-1 group-title="TURK_YEREL",DUZCE TV m3u8 canlitv
 http://yayin3.canlitv.com:1935/live/duzcetv/HasBahCa.m3u8
 #EXTINF:-1 group-title="TURK_YEREL",Guneydogu TV (Sanliurfa) m3u8 taksimbilisim
@@ -91,3 +93,5 @@ http://stream.taksimbilisim.com:1935/tv1/bant1/TV1.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-logo="https://i.imgur.com/CvSz5Um.jpg" group-title="TURK_ULUSAL",Kral TV
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 group-title="TURK_ULUSAL",LALEGÜL
+http://176.10.117.12:8081/aypitv/Lalegul/playlist.m3u8
